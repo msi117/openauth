@@ -1,5 +1,11 @@
 # @openauthjs/openauth
 
+## 0.1.3
+
+### Patch Changes
+
+- 0f93def: refactor: update storage adapters to use Date for expiry
+
 ## 0.1.2
 
 ### Patch Changes
